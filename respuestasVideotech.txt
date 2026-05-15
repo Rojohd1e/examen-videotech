@@ -1,0 +1,11 @@
+Respuestas Ejercicio 1.1
+========================
+
+a) El simbolo - significa que es PRIVADO (private), solo accesible desde dentro de la clase.
+   El simbolo + significa que es PUBLICO (public), accesible desde cualquier parte del programa.
+
+b) El tipo de dato de "disponible" es bool (booleano).
+   Sus dos valores posibles son: true o false.
+
+c) ToString() sirve para devolver una representacion en texto del objeto.
+   
